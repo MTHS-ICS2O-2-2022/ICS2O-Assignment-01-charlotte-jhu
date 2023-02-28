@@ -21,7 +21,7 @@
   padding-top: 20pt;
   padding-bottom: 20pt;
   text-align: center;
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
 
 .page-content {
@@ -29,7 +29,7 @@
 }
 
 body {
-  background-color:lightblue;
+  background-color: lightblue;
 }
 
 h1 {
